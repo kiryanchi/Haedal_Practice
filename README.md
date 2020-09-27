@@ -1,5 +1,7 @@
 # Vim 사용법
 
+![VimImage](https://i2.wp.com/www.fatosmorina.com/wp-content/uploads/2017/06/vim.png?resize=300%2C300&ssl=1)
+
 ## 명령어 모음
 
 - :w - 저장
